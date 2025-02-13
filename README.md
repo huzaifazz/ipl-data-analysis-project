@@ -77,5 +77,3 @@ data
 This project is licensed under the MIT License.
 
 **Save this content in a file named `README.md` in t**he root directory of your repository.
-
-**Save this content in a file named `README.md` in t**he root directory of your repository.
